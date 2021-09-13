@@ -1,1 +1,1 @@
-# djangooblog
+# djangoblog
